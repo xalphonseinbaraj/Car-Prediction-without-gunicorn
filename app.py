@@ -40,7 +40,7 @@ def get_key(val, my_dict):
 def main():
     
     st.title("Car Value Evaluation using Machine Learning")
-    st.subheader("Made with <3 by Vipul Gaurav")
+    st.subheader("Made in India")
     image = Image.open('assets/index.jpeg')
     st.image(image, use_column_width=True)
     tasks = ['EDA', 'Prediction']
